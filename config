@@ -188,7 +188,7 @@ settings = {
     nicklist_tmux_pane_index = "2";
   };
   "irc/core" = { cmd_queue_speed = "1msec"; };
-  core = { real_name = "Unknown"; user_name = "fox"; nick = "fox"; };
+  core = { real_name = "User"; user_name = "User"; nick = "user"; };
 };
 keyboard = (
   { key = "ctrl-left"; id = "command"; data = "window next"; },
